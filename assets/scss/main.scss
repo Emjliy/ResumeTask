@@ -1,0 +1,114 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+
+}
+
+.resume {
+    width: 700px;
+    padding-left: 20px;
+    margin-top: 50px;
+}
+
+.heading {
+    .firstlast {
+        font-size: 30px;
+    }
+}
+
+.summary {
+    margin-top: 13px;
+
+    h2 {
+        font-size: 17px;
+    }
+}
+
+.highlights {
+    display: flex;
+    margin-top: 13px;
+
+    h2 {
+        font-size: 17px;
+    }
+
+    .highlights-items {
+        display: flex;
+        margin-left: 160px;
+        margin-top: 20px;
+        line-height: 1.1em;
+    }
+
+    .secondlist-items {
+        margin-left: 100px;
+    }
+}
+
+.experience {
+    font-size: 17px;
+}
+
+.experience-whole {
+    display: flex;
+
+    h2 {
+        width: 150px;
+        font-size: 17px;
+    }
+
+    .projectmanager {
+        margin-left: 55px;
+    }
+
+    .projectmanager-list {
+        margin-left: 55px;
+    }
+}
+
+.intern-whole {
+    display: flex;
+
+    h2 {
+        width: 150px;
+        font-size: 17px;
+    }
+
+    .internomega {
+        margin-left: 55px;
+    }
+
+    .internomega-list {
+        margin-left: 55px;
+    }
+}
+
+.education {
+    font-size: 17px;
+}
+
+.education-whole {
+    display: flex;
+
+    h2 {
+        width: 150px;
+        font-size: 17px;
+    }
+
+    .bachelorscience {
+        margin-left: 55px;
+    }
+
+}
+
+.additionalinfo-whole {
+    h2 {
+        font-size: 17px;
+    }
+
+    ul {
+        margin-left: 250px;
+
+    }
+}

@@ -1,0 +1,119 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.resume {
+  width: 700px;
+  padding-left: 20px;
+  margin-top: 50px;
+}
+
+.heading .firstlast {
+  font-size: 30px;
+}
+
+.summary {
+  margin-top: 13px;
+}
+
+.summary h2 {
+  font-size: 17px;
+}
+
+.highlights {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: 13px;
+}
+
+.highlights h2 {
+  font-size: 17px;
+}
+
+.highlights .highlights-items {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-left: 160px;
+  margin-top: 20px;
+  line-height: 1.1em;
+}
+
+.highlights .secondlist-items {
+  margin-left: 100px;
+}
+
+.experience {
+  font-size: 17px;
+}
+
+.experience-whole {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.experience-whole h2 {
+  width: 150px;
+  font-size: 17px;
+}
+
+.experience-whole .projectmanager {
+  margin-left: 55px;
+}
+
+.experience-whole .projectmanager-list {
+  margin-left: 55px;
+}
+
+.intern-whole {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.intern-whole h2 {
+  width: 150px;
+  font-size: 17px;
+}
+
+.intern-whole .internomega {
+  margin-left: 55px;
+}
+
+.intern-whole .internomega-list {
+  margin-left: 55px;
+}
+
+.education {
+  font-size: 17px;
+}
+
+.education-whole {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.education-whole h2 {
+  width: 150px;
+  font-size: 17px;
+}
+
+.education-whole .bachelorscience {
+  margin-left: 55px;
+}
+
+.additionalinfo-whole h2 {
+  font-size: 17px;
+}
+
+.additionalinfo-whole ul {
+  margin-left: 250px;
+}
+/*# sourceMappingURL=main.css.map */
